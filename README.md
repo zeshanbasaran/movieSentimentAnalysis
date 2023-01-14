@@ -4,7 +4,7 @@
 
 This python script uses natural language processing (NLP) and machine learning algorithms from scikit-learn to analyze a user's sentiment regarding a movie. The dataset is a collection of IMDB reviews from Kaggle.
 
-It works by taking 1000 positive and 1000 negative movies review from the dataset to train and test
+It works by taking 1000 positive and 1000 negative movie reviews from the dataset to train and test
 
 ![image](https://user-images.githubusercontent.com/116126778/212489675-2d5bf155-c9cb-41b0-8e02-17bba8541ecf.png)
 
